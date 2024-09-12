@@ -1,1 +1,2 @@
-# EDincer_BAFall24
+# BA Fall 2024
+### Emir Dincer
